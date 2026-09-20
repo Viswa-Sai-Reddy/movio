@@ -1,0 +1,24 @@
+API Key Movio = bef491a6b267cf04d15c861e4089dd59
+
+Base URL: https://api.themoviedb.org/3
+
+Movies List:
+https://api.themoviedb.org/3/discover/movie
+
+Individual Movie :
+https://api.themoviedb.org/3/movie/{movie_id}
+
+Now_Playing:
+https://api.themoviedb.org/3/movie/now_playing
+
+Popular:
+https://api.themoviedb.org/3/movie/popular
+
+Top_Rated:
+https://api.themoviedb.org/3/movie/top_rated
+
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming
+
+Movie_Search
+https://api.themoviedb.org/3/search/movie?query=Spider
